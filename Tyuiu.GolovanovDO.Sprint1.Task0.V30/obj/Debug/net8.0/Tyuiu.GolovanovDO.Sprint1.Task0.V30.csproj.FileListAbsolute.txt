@@ -1,3 +1,9 @@
+C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task0.V30\obj\Debug\net8.0\Tyuiu.GolovanovDO.Sprint1.Task0.V30.csproj.AssemblyReference.cache
+C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task0.V30\obj\Debug\net8.0\Tyuiu.GolovanovDO.Sprint1.Task0.V30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task0.V30\obj\Debug\net8.0\Tyuiu.GolovanovDO.Sprint1.Task0.V30.AssemblyInfoInputs.cache
+C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task0.V30\obj\Debug\net8.0\Tyuiu.GolovanovDO.Sprint1.Task0.V30.AssemblyInfo.cs
+C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task0.V30\obj\Debug\net8.0\Tyuiu.GolovanovDO.Sprint1.Task0.V30.csproj.CoreCompileInputs.cache
+C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task0.V30\obj\Debug\net8.0\Tyuiu.GolovanovDO.Sprint1.Task0.V30.sourcelink.json
 C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task0.V30\bin\Debug\net8.0\Tyuiu.GolovanovDO.Sprint1.Task0.V30.exe
 C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task0.V30\bin\Debug\net8.0\Tyuiu.GolovanovDO.Sprint1.Task0.V30.deps.json
 C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task0.V30\bin\Debug\net8.0\Tyuiu.GolovanovDO.Sprint1.Task0.V30.runtimeconfig.json
@@ -6,12 +12,6 @@ C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task
 C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task0.V30\bin\Debug\net8.0\Tyuiu.GolovanovDO.Sprint1.Task0.V30.Lib.dll
 C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task0.V30\bin\Debug\net8.0\tyuiu.cources.programming.interfaces.dll
 C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task0.V30\bin\Debug\net8.0\Tyuiu.GolovanovDO.Sprint1.Task0.V30.Lib.pdb
-C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task0.V30\obj\Debug\net8.0\Tyuiu.GolovanovDO.Sprint1.Task0.V30.csproj.AssemblyReference.cache
-C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task0.V30\obj\Debug\net8.0\Tyuiu.GolovanovDO.Sprint1.Task0.V30.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task0.V30\obj\Debug\net8.0\Tyuiu.GolovanovDO.Sprint1.Task0.V30.AssemblyInfoInputs.cache
-C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task0.V30\obj\Debug\net8.0\Tyuiu.GolovanovDO.Sprint1.Task0.V30.AssemblyInfo.cs
-C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task0.V30\obj\Debug\net8.0\Tyuiu.GolovanovDO.Sprint1.Task0.V30.csproj.CoreCompileInputs.cache
-C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task0.V30\obj\Debug\net8.0\Tyuiu.GolovanovDO.Sprint1.Task0.V30.sourcelink.json
 C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task0.V30\obj\Debug\net8.0\Tyuiu.Go.9D559A59.Up2Date
 C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task0.V30\obj\Debug\net8.0\Tyuiu.GolovanovDO.Sprint1.Task0.V30.dll
 C:\Users\0\source\repos\Tyuiu.GolovanovDO.Sprint1\Tyuiu.GolovanovDO.Sprint1.Task0.V30\obj\Debug\net8.0\refint\Tyuiu.GolovanovDO.Sprint1.Task0.V30.dll
