@@ -7,7 +7,7 @@ internal class Program
         Console.Title = "Спринт #0| Выполнил: Голованов Д.О. | ПИНб-25-1";
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #1                                                               *");
-        Console.WriteLine("* Тема: Базовые навыки работы в C#                            *");
+        Console.WriteLine("* Тема: Операторы составного присваивания                                 *");
         Console.WriteLine("* Задание #03                                                             *");
         Console.WriteLine("* Вариант #19                                                             *");
         Console.WriteLine("* Выполнил Голованов Данила Олегович | ПИНб-25-1                          *");

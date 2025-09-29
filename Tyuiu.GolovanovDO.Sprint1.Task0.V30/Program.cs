@@ -9,7 +9,7 @@ internal class Program
         Console.Title = "Спринт #0| Выполнил: Голованов Д.О. | ПИНб-25-1";
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #1                                                               *");
-        Console.WriteLine("* Тема: Создание итогового решения по спринту                             *");
+        Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
         Console.WriteLine("* Задание #0                                                              *");
         Console.WriteLine("* Вариант #30                                                             *");
         Console.WriteLine("* Выполнил Голованов Данила Олегович | ПИНб-25-1                          *");
